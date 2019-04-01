@@ -1,0 +1,42 @@
+.collection-item {
+    padding: 10px 25px;
+    font-size: 1.1em;
+}
+
+.collection-item:hover {
+    text-decoration: line-through !important;
+    cursor: pointer;
+}
+
+.collection, form {
+    width: 55%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.container {
+    background: #fff;
+    padding: 25px;
+    width: 50%;
+}
+
+body {
+    background: #eee;
+}
+
+form {
+    margin-bottom: 50px;
+}
+
+#root {
+    margin-top: 5%;
+}
+
+.card {
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+h1 {
+    font-size: 300%;
+}
